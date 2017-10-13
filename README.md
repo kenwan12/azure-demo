@@ -6,9 +6,11 @@ Demo Web App on Azure
 Files:
 
 $ tree .
-.
+
 ├── README.md
+
 └── web
+
     ├── azure-demo-bastion.ps1
     ├── azure-demo-web.ps1
     ├── azure-demo-web_vm.ps1
